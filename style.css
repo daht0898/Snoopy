@@ -50,8 +50,8 @@ body {
 .firma {
   display: block;
   margin-top: 10px;
-  font-size: 0.7em;
-  opacity: 0.25;
+  font-size: 0.5em;
+  opacity: 0.20;
   text-align: right;
   font-style: italic;
 }
