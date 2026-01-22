@@ -46,3 +46,12 @@ body {
   border-radius: 30px;
   font-weight: bold;
 }
+
+.firma {
+  display: block;
+  margin-top: 10px;
+  font-size: 0.7em;
+  opacity: 0.25;
+  text-align: right;
+  font-style: italic;
+}
